@@ -12,7 +12,10 @@
     "@astrojs/mdx": "^4.1.0",
     "@astrojs/rss": "^4.0.11",
     "@astrojs/sitemap": "^3.2.1",
-    "astro": "^5.4.2"
+    "@jridgewell/sourcemap-codec": "^1.5.0",
+    "@rollup/plugin-inject": "^5.0.5",
+    "astro": "^5.4.2",
+    "wrangler": "^3.114.0"
   },
   "devDependencies": {
     "@types/estree-jsx": "^1.0.5",
