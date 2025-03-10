@@ -2,7 +2,7 @@
 title: Executive Order 0001
 description: 'The Total Ban of Hexadecimal'
 pubDate: 'Mar 06 2025'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/Banned.jpg'
 Executive Order 0001: The Total Ban of Hexadecimal
 ---
 Issued by: The Supreme Bit, Leader of the Binary Brigade

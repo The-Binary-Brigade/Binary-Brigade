@@ -1,7 +1,9 @@
+---
 title: Executive Order 0011
 description: 'Denary and Hex Are Heresy'
 pubDate: 'Mar 10 2025'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/Banned.jpg'
+---
 Executive Order 0003: The Banning of All Non-Binary Systems
 
 Issued by: The Supreme Bit, Leader of the Binary Brigade
