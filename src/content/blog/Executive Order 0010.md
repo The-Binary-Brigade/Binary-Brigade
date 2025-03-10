@@ -3,9 +3,8 @@ title: Executive Order 0010
 description: 'Appointment Of Key Coucil Leaders'
 pubDate: 'Mar 07 2025'
 heroImage: '/blog-placeholder-2.jpg'
-Executive Order 0001: The Total Ban of Hexadecimal
 ---
-Executive Order 0002: Appointment of the Logic Architect and Bit Warden
+Executive Order 0010: Appointment of the Logic Architect and Bit Warden
 
 Issued by: The Supreme Bit, Leader of the Binary Brigade
 Effective Date: March 7, 2025
