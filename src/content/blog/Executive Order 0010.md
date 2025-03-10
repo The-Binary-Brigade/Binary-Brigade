@@ -19,9 +19,9 @@ Whereas Steven Glennie and Andrew Smithson have demonstrated unparalleled loyalt
 It is hereby decreed that these individuals shall ascend to their respective roles, effective immediately.
 Directives of the Order
 
-    Appointment of Steven Glennie as Logic Architect
+    Appointment of Stephen Glennie as Logic Architect
 
-        Steven Glennie is hereby granted the title, authority, and responsibilities of the Logic Architect, a key member of the Grand Binary Council.
+        Stephen Glennie is hereby granted the title, authority, and responsibilities of the Logic Architect, a key member of the Grand Binary Council.
 
         Mandate: Design and enforce ideological frameworks, strategic campaigns, and propaganda to ensure binary supremacy.
 
