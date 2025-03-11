@@ -1,0 +1,54 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import "bootstrap/dist/css/bootstrap.min.css";
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+            <h1>
+                Most Wanted
+            </h1>
+            <div class="container mt-5">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <img src="/JHwanted.png" alt="James Holmes Wanted Picture" width="250">
+                    </div>
+                    <div class="col-sm-6">
+                        <img src="/MFwanted.png" alt="Madden Fletcher Wanted Picture" width="250">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <h3>
+                            James Holmes
+                        </h3>
+                    </div>
+                    <div class="col-sm-6">
+                        <h3>
+                            Madden Fletcher
+                        </h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>In Violation Of Executive Order 0011</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>In Violation Of Executive Order 0011</p>
+                    </div>
+                </div>
+                </div>
+            </div>
+		</main>
+		<Footer />
+	</body>
+</html>
