@@ -4,7 +4,7 @@ description: 'Denary and Hex Are Heresy'
 pubDate: 'Mar 10 2025'
 heroImage: '/Banned.jpg'
 ---
-Executive Order 0003: The Banning of All Non-Binary Systems
+Executive Order 0011: The Banning of All Non-Binary Systems
 
 Issued by: The Supreme Bit, Leader of the Binary Brigade
 Effective Date: March 20, 2025
