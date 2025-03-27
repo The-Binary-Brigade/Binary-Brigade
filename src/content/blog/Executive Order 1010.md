@@ -1,10 +1,10 @@
-----
+---
 title: Executive Order 0101
 description: 'Endorsement of Joe Hillier as KEVI Sr. Student'
 pubDate: 'May 15 2025'
 heroImage: '/blog-placeholder-6.jpg'
 Executive Order 0101: Recognition of Computational Excellence
-----
+---
 
 Issued by: The Supreme Bit, Leader of the Binary Brigade
 Effective Date: May 15, 2025
