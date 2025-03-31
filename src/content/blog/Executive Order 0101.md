@@ -1,7 +1,7 @@
 ---
 title: Executive Order 0101
 description: 'Official Endorsement of Joe Hillier for KEVI Sr. Student'
-pubDate: 'May 20 2025'
+pubDate: 'March 26 2025'
 heroImage: '/Vote-Hillier.png'
 Executive Order 0102: Electoral Dominance of the Code Seer
 ---
